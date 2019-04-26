@@ -1,0 +1,28 @@
+﻿body {
+    background-color: sandybrown;
+}
+
+h1 {
+    background-color: darkolivegreen;
+    color: sandybrown;
+}
+
+h2 {
+    color: darkolivegreen;
+}
+
+h3 {
+    color: darkolivegreen;
+}
+
+h4 {
+    color: darkolivegreen;
+}
+
+p {
+    color: darkolivegreen;
+}
+p:hover{
+    color:forestgreen;
+    
+}

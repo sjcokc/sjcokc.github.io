@@ -1,0 +1,54 @@
+
+body {
+    background-color: dimgray;
+    color: white;
+    
+}
+p{
+    background-color:sandybrown;
+    color:darkolivegreen;
+
+}
+u {
+    font-size: 100%;
+    background-color: darkolivegreen;
+    color: sandybrown;
+    margin: 25px;
+    border-radius
+}
+nav {
+    float: left;
+    background-color: darkolivegreen;
+    width: 25%;
+    height: 540px;
+}
+ul {
+    list-style-type: none;
+    padding: 0px;
+    height: 500px;
+}
+li a {
+    background-color: sandybrown;
+    text-decoration: none;
+    padding: 20px;
+    text-transform: uppercase;
+    display: block;
+    border-radius: 10px;
+    margin: 25px;
+    color:darkolivegreen;
+}
+img.Pic{
+    float:left;
+    background-color:sandybrown;
+    padding:20px;
+    border-color:saddlebrown;
+    width:30%;
+    height:500px;
+}
+li a:hover{
+    transform:scale(1.15)
+}
+img.Pic:hover {
+    transition: transform .5s ease-in-out;
+    transform: rotate(1080deg) scale(1.5);
+}
